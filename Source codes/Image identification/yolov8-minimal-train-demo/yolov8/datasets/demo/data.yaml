@@ -1,0 +1,6 @@
+path: C:/Users/ASUS/Desktop/yolov8-minimal-train-demo/yolov8/datasets/demo
+train: train/images
+val: valid/images
+
+nc: 3
+names: ['key', 'cube', 'book']
